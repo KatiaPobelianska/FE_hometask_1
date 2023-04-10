@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+div {
+  background-color: rgb(226, 226, 226);
+  padding: 21px;
+}
+ul {
+  list-style: none;
+}
+.main_h {
+  margin-bottom: 25px;
+}
+.list_item:not(:last-child) {
+  margin-bottom: 15px;
+}
+.list_p {
+  color: white;
+  background-color: #34495e;
+  padding: 21px;
+  border-radius: 20px;
+}
